@@ -2,7 +2,7 @@ public class Cat{
 
 
 
-System.out.printlnn("hii");
+System.out.printlnn("hi");
 
 
 }
